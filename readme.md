@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://c.tenor.com/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif
+
+![kk](https://user-images.githubusercontent.com/100598965/175080784-9274ecb1-e43a-42c0-86b0-9026be2baa58.gif)
+
 <div class="tenor-gif-embed" data-postid="3479485" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3479485">Angry Typing GIF</a>from <a href="https://tenor.com/search/bruce+almighty-gifs">Bruce Almighty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 -->
 <table>
