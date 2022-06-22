@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamay/iamay/output/github-contribution-grid-snake.svg#gh-light-mode-only)
