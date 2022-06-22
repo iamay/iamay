@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamay/iamay/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/iamay/iamay/blob/output/github-contribution-grid-snake.gif)
