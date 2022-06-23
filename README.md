@@ -1,5 +1,8 @@
-###  Hey! I’m Ayush Sharma👋
-I’m a relatively new self-taught web developer who loves to learn new things!
+<div align="center">
+    <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<br>
 <!--
 **iamay/iamay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -22,19 +25,22 @@ Here are some ideas to get you started:
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=iamay&show_icons=true&locale=en&theme=tokyonight" />
     </td>
-    <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamay&langs_count=8&theme=tokyonight" />
-    </td>
-  <tr>
+   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamay&theme=tokyonight" />
     </td>
   </tr>
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=iamay&theme=material-palenight&area=true" />
+<br>
+<br>
 
+<div align="center">
 
-### Watch my contribution graph get eaten by the snake 🐍
+![Visitor Count](https://profile-counter.glitch.me/iamay/count.svg)
+
+  </div>
+  <br>
+
 
 ![snake gif](https://github.com/iamay/iamay/blob/output/github-contribution-grid-snake.gif)
 
