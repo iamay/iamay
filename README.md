@@ -2,10 +2,8 @@
 <div align="center">
     <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
-<br>
-![](https://github.com/iamay/iamay/blob/master/icons/header_1.png)
-<br>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 <br>
 <!--
 **iamay/iamay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![kk](https://user-images.githubusercontent.com/100598965/175080784-9274ecb1-e43a-42c0-86b0-9026be2baa58.gif)
-![I am GitHub Readme Generator's creator](https://c.tenor.com/Dhrbmr_t3tEAAAAd/forrest-gump-hello.gif)
 
 <div class="tenor-gif-embed" data-postid="3479485" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3479485">Angry Typing GIF</a>from <a href="https://tenor.com/search/bruce+almighty-gifs">Bruce Almighty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 -->
