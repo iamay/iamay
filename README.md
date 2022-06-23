@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/iamay/count.svg)
-
-  </div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/iamay/count.svg" />
+</p>
   <br>
 
 
