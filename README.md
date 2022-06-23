@@ -2,6 +2,9 @@
 <div align="center">
     <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
+<br>
+![](https://github.com/iamay/iamay/blob/master/icons/header_1.png)
+<br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <br>
 <!--
@@ -24,11 +27,11 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iamay&show_icons=true&locale=en&theme=tokyonight" />
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamay&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
     </td>
    <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamay&theme=tokyonight" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamay&theme=light" />
     </td>
   </tr>
 </table>
@@ -44,5 +47,6 @@ Here are some ideas to get you started:
 
 
 ![snake gif](https://github.com/iamay/iamay/blob/output/github-contribution-grid-snake.gif)
+<br>
 
 
