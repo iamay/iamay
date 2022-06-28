@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/iamay/count.svg" />
 </p>
   <br>
