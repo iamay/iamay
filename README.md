@@ -5,7 +5,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 <br>
-<br>
+
 
 <div align="center">
 <h1 align="center">Hey there <img width="55" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Ayush Sharma</h1>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> 
-  Visitor Count<br>
+  Stalker Count<br>
   <img src="https://profile-counter.glitch.me/iamay/count.svg" />
 </p>
   <br>
