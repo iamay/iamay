@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<h1 align="center">Hey there <img width="55" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Ayush Sharma</h1>
+<h1 align="center">Hey there <img width="60" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Ayush Sharma</h1>
 <br>
 
 <!--
