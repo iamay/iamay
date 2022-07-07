@@ -3,8 +3,6 @@
     <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
-<br>
 
 
 <div align="center">
@@ -41,7 +39,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> 
-  Stalker Count<br>
+  Visitors<br>
   <img src="https://profile-counter.glitch.me/iamay/count.svg" />
 </p>
   <br>
