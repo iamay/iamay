@@ -9,12 +9,6 @@
 <br>
 </div>
 
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamay">
-</p>
-<br>
-
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -48,6 +42,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamay">
+</p>
+<br>
 
 
 <!--
