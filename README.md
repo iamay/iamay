@@ -68,5 +68,6 @@ Here are some ideas to get you started:
 
 <br>
 
+## 🐍 Watch a snake eat my contribution
 ![snake gif](https://github.com/iamay/iamay/blob/output/github-contribution-grid-snake.gif)
 <br>
