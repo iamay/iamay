@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-## Github Stats
+## 📈Github Stats
 <p align="left">
 <a href="https://github.com/iamay/github-readme-stats"><img height="400px" width="450px" src="https://github-readme-stats.vercel.app/api?username=iamay&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
 <a href="https://git.io/streak-stats"><img align="right" height="400px" width="450px" src="http://github-readme-streak-stats.herokuapp.com?user=iamay&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
