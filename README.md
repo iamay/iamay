@@ -1,25 +1,10 @@
-<br>
-<div align="center">
-    <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-</div>
+
 
 
 <div align="center">
-<h1 align="center">Hey there <img width="60" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Ayush </h1>
+<h1 align="center">Hey there 👋🏽 I'm Ayush </h1>
 <br>
 </div>
-
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -79,6 +64,4 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🐍 Watch a snake eat my contribution
-![snake gif](https://github.com/iamay/iamay/blob/output/github-contribution-grid-snake.gif)
-<br>
+
